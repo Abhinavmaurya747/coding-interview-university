@@ -72,7 +72,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [x] [How to use it](#how-to-use-it)
 - [x] [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [x] [About Video Resources](#about-video-resources)
-- [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
+- [Interview Process & General Interview Prep   (VERY IMPORTANT. REVIEW IT MULTIPLE TIMES)](#interview-process--general-interview-prep   (VERY IMPORTANT. REVIEW IT MULTIPLE TIMES))
 - [x] [Pick One Language for the Interview](#pick-one-language-for-the-interview)
 - [x] [Book List](#book-list)
 - [Before you Get Started](#before-you-get-started)
