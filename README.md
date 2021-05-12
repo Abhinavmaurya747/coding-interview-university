@@ -72,7 +72,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [x] [How to use it](#how-to-use-it)
 - [x] [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [x] [About Video Resources](#about-video-resources)
-- [Interview Process & General Interview Prep   (VERY IMPORTANT. REVIEW IT MULTIPLE TIMES)](#interview-process--general-interview-prep   (VERY IMPORTANT. REVIEW IT MULTIPLE TIMES))
+- [Interview Process & General Interview Prep   (VERY IMPORTANT. REVIEW IT MULTIPLE TIMES)](#interview-process--general-interview-prep)
 - [x] [Pick One Language for the Interview](#pick-one-language-for-the-interview)
 - [x] [Book List](#book-list)
 - [Before you Get Started](#before-you-get-started)
@@ -247,7 +247,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     I like using university lectures.
 
 
-## Interview Process & General Interview Prep   (VERY IMPORTANT. REVIEW IT MULTIPLE TIMES)
+## Interview Process & General Interview Prep
 
 - [x] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
 - [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
